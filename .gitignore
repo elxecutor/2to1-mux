@@ -1,0 +1,63 @@
+# Quartus Prime generated files
+db/
+incremental_db/
+output_files/
+simulation/
+
+# Backup files
+*.bak
+*.backup
+
+# Log files
+*.log
+*.qmsg
+*.rpt
+*.smsg
+*.summary
+
+# Temporary files
+*.tmp
+*.temp
+*~
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Project specific
+mux2to1_assignment_defaults.qdf
+assignment_defaults.qdf
+
+# Questa/ModelSim files
+*.wlf
+*.do
+*.tcl
+transcript
+vsim.wlf
+modelsim.ini
+
+# SignalTap files
+*.stp
+*.stpsettings
+
+# Qsys files
+*.qsys
+*.qip
+
+# Tcl files
+*.tcl
+
+# Archive files
+*.zip
+*.tar.gz
